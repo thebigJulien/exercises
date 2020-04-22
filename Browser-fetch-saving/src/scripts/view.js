@@ -21,7 +21,5 @@ class View {
     removeDisplay() {
         this.moviesSection.innerHTML = "";
     }
-
 }
-
-export {View}
+export { View }
